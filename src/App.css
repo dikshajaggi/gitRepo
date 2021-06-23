@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.other{
+    background-color: #1F2025;
+    height:82vh;
+    width: 95.6%;
+    float: right;
+    vertical-align: top;
+}
